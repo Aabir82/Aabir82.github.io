@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.73e2b5dd.css","mappings":"0EAGA,aAGI,aAAgB,CADhB,iBAAkB,CADlB,eAGJ","sources":["styles.css"],"sourcesContent":["@import url(\"https://fonts.googleapis.com/css2?family=Roboto&display=swap\");\n\n\n.searchmatch {\n    font-weight: 500;\n    font-style: italic;\n    color: steelblue;\n}"],"names":[],"sourceRoot":""}
